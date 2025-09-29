@@ -7,4 +7,4 @@ Google Cloud Run function to create RSS feeds for the Google Cloud Security Comm
 | Google Threat Intelligence (GTI)  | https://cloud-security-community-rss-feed-314505051852.us-central1.run.app/?feed=gti |
 | Security Command Center (SCC) | https://cloud-security-community-rss-feed-314505051852.us-central1.run.app/?feed=scc |
 | Cloud Security Foundation | https://cloud-security-community-rss-feed-314505051852.us-central1.run.app/?feed=foundation |
-| Google SecOps | https://cloud-security-community-rss-feed-314505051852.us-central1.run.app/?feed=foundation |
+| Google SecOps | https://cloud-security-community-rss-feed-314505051852.us-central1.run.app/?feed=secops |
