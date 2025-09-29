@@ -1,5 +1,5 @@
 # Unofficial RSS Feed Generator for Google Cloud Security Community
-Google Cloud Run function to create RSS feeds for the Google Cloud Security Community (https://security.googlecloudcommunity.com). You can either run it yourself or access the feeds using the bellow feed URLs.
+Google Cloud Run function to create RSS feeds for the Google Cloud Security Community (https://security.googlecloudcommunity.com). You can either run it yourself or access the feeds directly using the below feed URLs.
 
 ## Available Feeds
 | Forum    | Feed URL |
